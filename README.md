@@ -1,3 +1,5 @@
+> **Arquivado.** Este skill agora mora no plugin [biliboss/skills](https://github.com/biliboss/skills) (`skills/skill-smith/`). Instale com `claude plugin marketplace add biliboss/skills` e `claude plugin install biliboss-skills@biliboss`.
+
 # skill-smith
 
 An agent skill that **creates, updates and adapts other skills** (`SKILL.md`), so the next session does a task right on the first try. Its rules come from [Hermes Agent](https://github.com/NousResearch/hermes-agent), [skillify](https://github.com/Yeachan-Heo/oh-my-claudecode/blob/0564555b63dfedd158669c6799d53743abd7d6bf/skills/skillify/SKILL.md) (oh-my-claudecode) and [skillify-pro](https://github.com/coreyhaines31/makerskills/blob/ea7dd78515839ff11fc24e79ba0c53db2d5fff6c/skills/skillify/SKILL.md) (makerskills). The credits are in [ATTRIBUTION.md](ATTRIBUTION.md).
